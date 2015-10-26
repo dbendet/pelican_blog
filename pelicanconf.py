@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'David Bendet'
 SITENAME = u'David Bendet'
-SITEURL = 'www.davidbendet.com'
+SITEURL = ''
 THEME = '/Users/dbendet/Documents/pelican_blog/themes/pelican-svbtle'
 PATH = 'content'
 AUTHOR_BIO_ONE = 'I do analytics at Etsy.'
